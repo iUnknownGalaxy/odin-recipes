@@ -1,8 +1,13 @@
+body {
+    font-family: sans-serif, Arial, Helvetica;
+}
+
 h1 {
     text-align: center;
     background-color: red;
+    color: white;
+    font-size: 56px;
 }
-
 
 img {
     width: 200px;
