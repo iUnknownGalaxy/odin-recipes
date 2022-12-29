@@ -13,3 +13,15 @@
 .center {
     text-align: center;
 }
+
+ul {
+    display: block;
+}
+
+.spacing {
+    padding: 1em;
+}
+
+.shift-left {
+    margin-left: 20px;
+}
