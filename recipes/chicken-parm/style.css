@@ -1,11 +1,9 @@
 .top-box {
-    border: 2px solid red;
     padding: 20px;
     margin: 20px;
 }
 
 .bottom-box {
-    border: 2px solid red;
     padding: 10px;
     margin: 20px;
 }
@@ -18,10 +16,15 @@ ul {
     display: block;
 }
 
-.spacing {
-    padding: 1em;
+.spacing,
+ol li {
+    padding: .5em;
 }
 
 .shift-left {
     margin-left: 20px;
+}
+
+.wrap-right {
+    margin-right: 1000px;
 }
